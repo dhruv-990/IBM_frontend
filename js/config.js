@@ -1,7 +1,7 @@
 // Configuration for LifeSure Insurance App
 const CONFIG = {
-    // Railway backend URL
-    API_BASE_URL: 'https://modest-enjoyment-production.up.railway.app',
+    // Railway backend URL (currently removed)
+    API_BASE_URL: 'http://localhost:3000',
     
     // Local development URL (for testing)
     LOCAL_API_URL: 'http://localhost:3000',
